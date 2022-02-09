@@ -1,0 +1,29 @@
+Quiz :
+
+kalimatPertama =  "Saya sedang belajar Bahasa Pemrograman Python"
+kalimatKedua = "di Minggu Ke-"
+mingguKe = 2
+dataPertama = {'nama':'Budi', 'nik':1234567, 'periode': 2022}
+
+ 1. Tampilkan "bahasa pemrograman python" (dalam bentuk lowercase)
+ 2. Tampilkan "Saya sedang belajar Bahasa Pemrograman Python di Minggu Ke-2" (dalam tipe data string semua)
+ 3. Tampilkan "Saya di Minggu Ke-2 Belajar Bahasa Pemrograman PYTHON" (dalam bentuk string dan bentuk lowercase dan uppercase sesuai soal)
+ 4. Ubahlah kalimatPertama menjadi sebuah list seperti ['Saya', 'sedang', 'belajar', 'Bahasa', 'Pemrograman', 'Python']
+ , ditampung di variabel listKalimatPertama
+ 5. Tampunglah list dari kalimat pertama menjadi seperti dibawah:
+   variabel var1 diisi 'Saya' dari listKalimatPertama
+   variabel var2 diisi 'sedang' dari listKalimatPertama
+   variabel var3 diisi 'belajar' dari listKalimatPertama
+   variabel var4 diisi 'Bahasa' dari listKalimatPertama
+   variabel var5 diisi 'Pemrograman' dari list listKalimatPertama
+   variabel var6 diisi 'Python' dari listKalimatPertama
+   Pastikan mengisinya dengan mengambil nilai dari listKalimatPertama sesuai urutan indeksnya
+ 6. Hapus nilai 'Bahasa' dan 'Pemrograman' dari listKalimatPertama, dan tampung listKalimatPertama yang sudah 
+dihapus kedua nilainya ke variabel listKalimatPertamaBaru
+ 7. Tambahkan listKalimatPertama dengan dengan nilai dari variabel kalimatKedua dan variabel mingguKe
+   , dan hitung panjang item /elemen dari listKalimatPertama
+ 8. Tampilkan "Saya sedang belajar di Minggu Ke- 2" dari listKalimatPertama yang sudah diisi variabel kalimatKedua dan mingguKe
+ 9. Buatlah tuple ('Saya', 'sedang', 'belajar', 'Bahasa', 'Pemrograman', 'Python', 'di Minggu Ke-', 2) dan tampung
+   dengan variabel bernama tupleKalimat
+ 10. Dari dictionary dataPertama tambahkan key dengan nama 'umur' dan valuenya 20
+ 11. Dari dictionary update key 'nik' dengan valuenya menjadi 2021345
